@@ -1,0 +1,16 @@
+customer_id,join_date,customer_type,total_orders,total_spent,retention_status
+CUST001,2026-01-01,Regular,28,31300,Retained
+CUST002,2026-01-03,Regular,25,28650,Retained
+CUST003,2026-01-05,Premium,26,62950,Retained
+CUST004,2026-01-10,New,22,16950,Churned
+CUST005,2026-01-12,Premium,20,45850,Retained
+CUST006,2026-01-15,New,22,15300,Churned
+CUST007,2026-01-18,Regular,28,32000,Retained
+CUST008,2026-01-20,New,29,19600,Churned
+CUST009,2026-02-01,Premium,29,62200,Retained
+CUST010,2026-02-05,Regular,29,34650,Retained
+CUST011,2026-02-10,New,15,10150,Churned
+CUST012,2026-02-14,Regular,31,35750,Retained
+CUST013,2026-02-20,New,25,17750,Churned
+CUST014,2026-03-01,Premium,22,50300,Retained
+CUST015,2026-03-05,Regular,22,23500,Retained
