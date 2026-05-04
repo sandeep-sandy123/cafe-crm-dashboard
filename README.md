@@ -68,7 +68,7 @@ and churn patterns for a real café business.
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![[Dashboard](dashboard.png)](https://github.com/sandeep-sandy123/cafe-crm-dashboard/blob/main/dashboard.png)
 
 ---
 
